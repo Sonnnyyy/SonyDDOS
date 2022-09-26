@@ -1,2 +1,2 @@
-# SonyDDOS
-DDOS
+# pandastool
+ddos tool
